@@ -1,0 +1,6 @@
+Dear Diary,
+Today, I learned python file handling.
+It is easier than I expected!
+And now i know how to append to files!
+Alice, 90
+Bob, 28

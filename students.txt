@@ -1,0 +1,5 @@
+name, score, grade
+alisha, 90, A
+Babin, 98, B
+Sunil, 78, C
+Babita, 77, C
